@@ -1,0 +1,62 @@
+.nav {
+    background-color: #2c3e50;
+    height: 90px;
+}
+.jumbo {
+    height: 500px;
+    background-color: #1abc9c;
+}
+
+section {
+    padding: 35px 0;
+}
+/* @@@DEBUG@@@ */
+/* .portfolio {
+    min-height: 1000px;
+} */
+/* ------------------- */
+
+
+/* -----SECTION PORTFOLIO------ */
+
+.disegno-uno {
+    background-color: #ba4b63;
+}
+
+.disegno-due {
+    background-color: #1ea4b6;
+}
+
+.disegno-tre {
+    background-color: #140f0f;
+}
+
+.disegno-quattro {
+    background-color: #1c83c1;
+}
+
+.disegno-cinque {
+    background-color: #0e38b5;
+}
+
+.disegno-sei {
+    background-color: #ccb2a3;
+}
+
+
+/* -----SECTION ABOUT------ */
+
+.about {
+    background-color: #1abc9c;
+}
+
+
+/* -------FOOTER------- */
+
+.info {
+    background-color: #3a546d;
+}
+
+.copyright {
+    background-color: #2c3e50;
+}
