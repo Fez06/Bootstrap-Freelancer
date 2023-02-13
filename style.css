@@ -3,8 +3,13 @@
     height: 90px;
 }
 .jumbo {
-    height: 500px;
     background-color: #1abc9c;
+}
+
+.cornice {
+    width: 50%;
+    margin: auto;
+    max-width: 300px;
 }
 
 section {
